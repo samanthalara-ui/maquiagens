@@ -63,7 +63,7 @@
     main h2 {
       font-size: 2rem;
       margin-bottom: 15px;
-      color: #ff7300;
+      color: #8728f5;
     }
 
     main p {
@@ -90,8 +90,8 @@
    
     .card:hover {
       transform: translateY(-5px);
-      border-color: #ff7300;
-      box-shadow: 0 5px 15px rgba(255, 115, 0, 0.3);
+      border-color: #7539bb;
+      box-shadow: 0 5px 15px rgb(255, 251, 247);
     }
 
     .card img {
@@ -106,7 +106,7 @@
     }
    
     .card h3 {
-      color: #ff7300;
+      color: #7c05eb;
       margin-bottom: 10px;
       font-size: 1.4rem;
     }
@@ -116,7 +116,7 @@
       text-align: center;
       padding: 20px;
       margin-top: 60px;
-      border-top: 2px solid #ff7300;
+      border-top: 2px solid #8d3ef3;
     }
    
     @media (max-width: 600px) {
